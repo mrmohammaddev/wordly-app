@@ -7,7 +7,7 @@
 <p align="center">
 
 [![Build](https://img.shields.io/github/actions/workflow/status/mrmohammaddev/vocabulary/build-android.yml?branch=main&style=for-the-badge&label=build)](https://github.com/mrmohammaddev/vocabulary/actions)
-[![Version](https://img.shields.io/badge/version-0.3.0-blue?style=for-the-badge)](https://github.com/mrmohammaddev/vocabulary)
+[![Version](https://img.shields.io/badge/version-0.2.0-blue?style=for-the-badge)](https://github.com/mrmohammaddev/vocabulary)
 [![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mrmohammaddev/vocabulary/releases)
 
 </p>
@@ -42,7 +42,7 @@ No unnecessary complexity — just focus on learning.
 
 The latest Android APK is available in the **Releases** section.
 
-**[⬇️ Download Wordly](https://github.com/mrmohammaddev/vocabulary/releases)**
+**[⬇️ Download Wordly]([https://github.com/mrmohammaddev/wordly-app/releases])**
 
 Download the latest APK, install it on your Android device, and start learning.
 
@@ -99,7 +99,6 @@ If you find an issue, please report it so it can be improved in future updates.
 
 آخرین نسخه APK برنامه در بخش **Releases** گیت‌هاب قرار دارد.
 
-**[⬇️ دانلود Wordly](https://github.com/mrmohammaddev/vocabulary/releases)**
 
 آخرین فایل APK را دانلود و روی دستگاه اندرویدی خود نصب کنید.
 
