@@ -56,7 +56,7 @@ Download the APK, install it on your Android device, and start learning.
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="screenshot.png" alt="Wordly Screenshot" width="320">
+  <img src="screenshot.jpg" alt="Wordly Screenshot" width="320">
 </p>
 
 ---
@@ -125,7 +125,7 @@ https://github.com/mrmohammaddev/wordly-app/releases
 ## 🖼️ تصویر برنامه
 
 <p align="center">
-  <img src="screenshot.png" alt="تصویر Wordly" width="320">
+  <img src="screenshot.jpg" alt="تصویر Wordly" width="320">
 </p>
 
 ---
